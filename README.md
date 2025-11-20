@@ -31,16 +31,6 @@ Check out the live application here:
 
 ---
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|:---:|:---:|
-| ![Desktop](https://via.placeholder.com/500x300?text=Add+Your+Screenshot+Here) | ![Mobile](https://via.placeholder.com/200x400?text=Mobile+View) |
-
-*(Note: You can replace these placeholder links with actual screenshots of your app later!)*
-
----
-
 ## 🚀 How to Run Locally
 
 If you want to run this project on your local machine:
